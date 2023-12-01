@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab ](https://github.com/FaustM93/ActiveDirectoryLab)
 <H2>Certifications </H2>
-  <a href "https://github.com/FaustM93">Google IT Support</a> 
+  <a href "https://github.com/FaustM93">Comptia Security + </a> 
   
 <h2>📺 YouTube Videos</h2>
 (Tutorial) Active Directory Home Lab 
